@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "970383821358",
+    "firebase_url": "https://mahendi-desing-default-rtdb.firebaseio.com",
+    "project_id": "mahendi-desing",
+    "storage_bucket": "mahendi-desing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970383821358:android:b02ae99d20c703a5266dbf",
+        "android_client_info": {
+          "package_name": "com.zaidmansuri.mahendidesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970383821358-v355fcivau083tfmbdcmme9d30fe5fq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGuFXJqfv4BszdR6KIvItigjaGmEkzQqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970383821358-v355fcivau083tfmbdcmme9d30fe5fq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
